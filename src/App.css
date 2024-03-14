@@ -1,0 +1,27 @@
+.navigation {
+  background-image: linear-gradient(#4e65ff, #92effd);
+  text-decoration-color: chartreuse;
+  padding: 10px;
+}
+.buttons {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 20px;
+}
+.left {
+  margin-right: 75%;
+}
+.cal {
+  margin-left: 87%;
+}
+.buttons {
+  margin-top: 10px;
+}
+
+.buttons > * {
+  margin-right: 10px;
+}
+.main {
+  background-image: linear-gradient(#93a5cf, #e4efe9);
+}

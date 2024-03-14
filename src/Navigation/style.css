@@ -1,0 +1,10 @@
+.table {
+  border: 1px solid black;
+  margin: 20px auto;
+  width: 80%;
+}
+.dashCon {
+  padding: 20px;
+  margin-left: 30%;
+  font-weight: bolder;
+}
