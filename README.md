@@ -19,7 +19,7 @@ npm (Node Package Manager)
 
 Upon accessing the application, you will land on the dashboard page, where you can get an overview of various metrics and statistics related to your products and orders.
 
-![](<erp-cv.png>)
+![](<ERP-DB.png>)
 
 # Products
 
@@ -32,6 +32,8 @@ Upon accessing the application, you will land on the dashboard page, where you c
 
 - To edit a product, navigate to the "Products" section and click on the "Edit" button corresponding to the product you wish to modify.
 - Update the necessary fields and click on the "Save" button to apply the changes.
+
+![](<ERP-P.png>)
 
 ![](<erp-pa.png>)
 
